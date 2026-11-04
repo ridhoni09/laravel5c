@@ -1,0 +1,7 @@
+body { background: #f6f8f2; color: #26372d; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+.navbar-brand { letter-spacing: -.03em; }
+.card { background: #fff; }
+.btn-success { background-color: #3c805a; border-color: #3c805a; }
+.btn-success:hover { background-color: #2b6746; border-color: #2b6746; }
+a { color: #34754f; }
+a:hover { color: #25583b; }
